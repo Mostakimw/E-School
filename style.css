@@ -1,0 +1,38 @@
+
+header ul li{
+    margin-left: 15px;
+}
+/* header .container .logo{
+    margin-left: 80px;
+} */
+.btn{
+    border-radius: 20px;
+    background-color: #21B573;
+    border: none;
+    padding: 9px 20px;
+}
+
+.header-content{
+    background-color: #F8F9FA;
+    padding: 70px 80px;
+}
+
+.header-content img{
+    width: 550px;
+}
+.header-content h6{
+    color: #FD511A;
+    padding-bottom: 20px;
+    font-weight: 400;
+
+}
+.header-content .h1{
+    line-height: 1.5rem;
+}
+.header-content p{
+    padding: 20px 0;
+    line-height: 1.5rem;
+}
+.header-content .green{
+    color: #21B573;
+}
